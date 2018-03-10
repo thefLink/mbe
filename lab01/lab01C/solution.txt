@@ -1,0 +1,10 @@
+Pseudo code would be something like:
+
+scanf("%d", &v4)
+
+This reads in an integer and saves it to v4.
+
+v4 is later compared to the int:
+5274
+
+pw -> n0_str1ngs_n0_pr0bl3m

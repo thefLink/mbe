@@ -1,0 +1,7 @@
+the userinput is subtracted from the constant:
+322424845
+
+The result from this operation is then compared to the values from 0 - 18 and is then passed to the function "decrypt".
+Tried all inputs that lead to 0-18 and 322424827 is the result
+
+-> 1337_3nCRyptI0n_br0
